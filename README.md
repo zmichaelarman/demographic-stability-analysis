@@ -1,5 +1,5 @@
-# demographic-stability-analysis
-A mathematical framework to model mortality dynamics. Bridges Lexis diagrams to population pyramids, implements life expectancy decomposition algorithms, and introduces a novel statistical metric to quantify population structural stability using period life tables.
+# demographic-regime-ml
+Work in Progress, adding on to existing research with my own contributions
 
 Note to recruiters: 
 Will officially publish work in near future, send me an email if you would like to take a look at what I have
