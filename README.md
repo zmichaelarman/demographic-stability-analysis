@@ -2,7 +2,7 @@
 Work in Progress, adding on to existing research with my own contributions
 
 Note to recruiters: 
-Will officially publish work in near future, send me an email if you would like to take a look at what I have
+Will officially publish work in near future, send me an email if you would like to take a look at what I have: zmichaelarman@gmail.com
 
 Arriaga, E. E. (1984). Measuring and explaining the change in life expectancies. *Demography*, *21*(1), 83–96. https://doi.org/10.2307/2061029
 
