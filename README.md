@@ -1,6 +1,7 @@
 # demographic-mortality-geometry
 
 Currently in process of reevaluating entire pipeline, my resume references a completely different project from what will appear in the repository.
+reasons: overfitting and practicality, data is relatively small, switching to scikit-learn, keeping dependency list as small as possible.
 
 A cross national study of population aging and mortality dynamics across X countries, combining demographic analysis, machine learning, and actuarial mathematics built from Human Mortality Database.
 
