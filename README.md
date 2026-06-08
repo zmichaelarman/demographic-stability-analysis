@@ -1,4 +1,4 @@
-# demographic-regime-ml
+# demographic-mortality-geometry
 
 Currently in process of reevaluating entire pipeline, my resume references a completely different project from what will appear in the repository.
 
