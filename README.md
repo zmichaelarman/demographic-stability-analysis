@@ -1,6 +1,8 @@
 # demographic-regime-ml
 
-A cross national study of population aging and mortality dynamics across 20 countries, combining demographic analysis, machine learning, and actuarial mathematics built from four international data sources (HMD, WHO, UN, World Bank).
+Currently in process of reevaluating entire pipeline, my resume references a completely different project from what will appear in the repository.
+
+A cross national study of population aging and mortality dynamics across X countries, combining demographic analysis, machine learning, and actuarial mathematics built from Human Mortality Database.
 
 I have decided to Omit the SQL implementation in favor a a more simple and streamlined data pipeline.
 
